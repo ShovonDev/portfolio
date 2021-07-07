@@ -49,3 +49,14 @@ section{   display:flex;
 .recipie_cat > .recipie1 img{
     max-height: 300px;
 }
+.last-footer
+{
+    text-align: center;
+    background-color: teal;
+   
+}
+.youtube{
+    display:inline-block;
+    padding-right: 170px;
+    margin-left: 120px;
+}
